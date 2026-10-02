@@ -1,4 +1,7 @@
-[![Stats](https://github-readme-stats.vercel.app/api?username=markstos&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-stats-extended.vercel.app/api?username=markstos&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://algora.io/og/user/markstos" />
+
 
 
 <!--
