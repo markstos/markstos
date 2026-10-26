@@ -1,5 +1,3 @@
-<img src="https://algora.io/og/user/markstos" />
-
 [![Stats](https://github-stats-extended.vercel.app/api?username=markstos&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
